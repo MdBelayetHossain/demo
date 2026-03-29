@@ -24,7 +24,16 @@
   **Contributions:** Developed the Gold layer business aggregations, implemented the dual PySpark MLlib models (Demand Regressor and Stockout Classifier), built the Flask REST API for data sharing, and created the pipeline telemetry logging and dashboard visualizations.
 
 
+## AI Usage Declaration
 
+In accordance with course guidelines, we declare the following use of AI-based tools in this project:
+
+ **[Gemini]:** Used for sparring regarding data pipeline architecture ideas and for assistance in identifying bugs/syntax errors within the PySpark and Flask code.
+ 
+ **[Grammarly]:** Used to review and improve the language, grammar, and clarity of this README file.
+ 
+ **[Grok]:** Used to get final review (Rate) and check anything is missing or not.
+ 
 
 ## Table of Contents
 1. [Project Overview](#1-project-overview)
